@@ -4,7 +4,6 @@ Este proyecto de machine learning tiene como objetivo predecir la pérdida de cl
 
 
 ## 📁 Estructura del Proyecto
-├── churn_prediction.ipynb # Notebook principal del análisis
 ├── data/
 │ └── WA_Fn-UseC_-Telco-Customer-Churn.csv 
 ├── notebook/
